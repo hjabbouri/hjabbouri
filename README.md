@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Connect with me</h3>
+    <h1>Connect with me</h1>
     <a href="https://www.linkedin.com/in/hossame-jabbouri">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
     </a>
     -->
-    <h3>Languages and Tools</h3>
+    <h1>Languages and Tools</h1>
     <a href="#">
         <img src="https://skillicons.dev/icons?i=git,docker,vim,neovim,postman,vscode,visualstudio,linux" alt="Languages and Tools">
     </a>
